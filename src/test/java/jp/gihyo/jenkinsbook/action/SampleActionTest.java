@@ -75,7 +75,7 @@ public class SampleActionTest {
 
 		assertEquals(false, result);
 	}
-    /*
+
 	@Test
 	public void testExecuteNormal() {
 		SampleAction action = new SampleAction("firstName", "lastName");
@@ -90,5 +90,4 @@ public class SampleActionTest {
 
 		assertTrue("./WEB-INF/result.jsp".equals(result));
 	}
-    */
 }
